@@ -22,7 +22,8 @@ You can see it here → [Profile Card Component](http://profile-card.alexcamacho
 Not dependencies are required for this project.
 
 <h2 id="preview">🔍 Preview</h2>
-![Preview](https://raw.githubusercontent.com/alexcamachogz/card-component/development/images/preview.png)
+
+<img src="https://raw.githubusercontent.com/alexcamachogz/card-component/development/images/preview.png" alt="Preview"/>
 
 <h2 id="technologies">📌 Technologies</h2>
 
