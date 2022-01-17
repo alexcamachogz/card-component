@@ -8,7 +8,7 @@
 
 This is a card feature created with [Frontend Mentor resources](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/).
 
-You can see it here → [Profile Card Component](http://profile-card.alexcamachogz.com/).
+You can see it here → [Profile Card Component](https://card-component-bay.vercel.app).
 
 ## Table of contents
 
